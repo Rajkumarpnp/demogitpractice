@@ -8,8 +8,7 @@ public class Array {
 		a[0]=10;
 		a[1]=20;
 		a[2]=30;
-		a[3]=30;
-		a[4]=10;
+		
 		a[5]=60;
 		System.out.println(a[0]);
 		System.out.println("-------------");
